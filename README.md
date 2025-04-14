@@ -1,4 +1,8 @@
 # Pittsburgh-Parks-Conservancy-Project
+
+--Project Currently in Progress--
+Refer to the unfinished report PDF until the project is completed on May 25th, 2025.
+
 Data consulting project for the Pittsburgh Parks Conservancy.
 
 We're a four-person team of cohort peers conducting rigorous data analysis for the Pittsburgh Parks Conservancy in their effort to organize public investment funding priorities, using tools including statistical analysis using spatial features in R and geospatial analysis in QGIS. We are cleaning, analyzing, and visualizing demographic census data, environmental and public health metrics, and other factors to break down socioeconomic patterns at the urban community level anchored around public parks.
