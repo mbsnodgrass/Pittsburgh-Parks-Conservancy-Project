@@ -1,7 +1,7 @@
 # Pittsburgh-Parks-Conservancy-Project
 
 --Project Currently in Progress--
-Refer to the unfinished report PDF until the project is completed on May 25th, 2025.
+Refer to the unfinished report PDF until the project is completed on April 25th, 2025.
 
 Data consulting project for the Pittsburgh Parks Conservancy.
 
