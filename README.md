@@ -6,6 +6,7 @@
 - Python code with all visualizations and the final data merge between all variables in the entire report: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Visualizations%20and%20Final%20Data%20Merge%20Master%20Code%20File.ipynb
 - Python code with the finalization of environmental data including the merging of tree canopy, pollution, and sewershed data: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Environmental%20Data%20Merge.ipynb
 
+## Project Abstract
 Data consulting project for the Pittsburgh Parks Conservancy.
 
 We're a four-person team of cohort peers conducting rigorous data analysis for the Pittsburgh Parks Conservancy in their effort to organize public investment funding priorities, using tools including statistical analysis using spatial features in R and geospatial analysis in QGIS. We are cleaning, analyzing, and visualizing demographic census data, environmental and public health metrics, and other factors to break down socioeconomic patterns at the urban community level anchored around public parks.
