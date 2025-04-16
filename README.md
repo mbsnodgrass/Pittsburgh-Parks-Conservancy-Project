@@ -1,7 +1,9 @@
 # Pittsburgh-Parks-Conservancy-Project
 
---Project Currently in Progress--
-Refer to the unfinished report PDF until the project is completed on April 25th, 2025.
+## Guide to Files
+-- Project Currently in Progress --
+- Refer to the unfinished report PDF until the project is completed on April 25th, 2025.
+- Python code with all visualizations and the final data merge between all variables in the entire report: 
 
 Data consulting project for the Pittsburgh Parks Conservancy.
 
