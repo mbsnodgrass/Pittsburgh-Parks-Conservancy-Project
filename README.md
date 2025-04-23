@@ -1,8 +1,7 @@
 # Pittsburgh-Parks-Conservancy-Project
 
 ## Guide to Files
--- Project Currently in Progress --
-- Refer to the unfinished report PDF until the project is completed on April 25th, 2025: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Parks%20Report%20Unfinished.pdf
+- **Final Report**: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Final%20Report%20for%20the%20Pittsburgh%20Parks%20Conservancy.pdf
 - Python code with all visualizations and the final data merge between all variables in the entire report: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Visualizations%20and%20Final%20Data%20Merge%20Master%20Code%20File.ipynb
 - Python code with the finalization of environmental data including the merging of tree canopy, pollution, and sewershed data: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Environmental%20Data%20Merge.ipynb
 - R code featuring the aerial interpolation of sewershed priority data for parks: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Sewershed_Attachments_Parks.pdf
