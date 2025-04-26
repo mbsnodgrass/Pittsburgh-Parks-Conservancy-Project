@@ -2,6 +2,7 @@
 
 ## Guide to Files
 - **Final Report**: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Final%20Report%20for%20the%20Pittsburgh%20Parks%20Conservancy.pdf
+- [**Final Report**]([https://pages.github.com/](https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Final%20Report%20for%20the%20Pittsburgh%20Parks%20Conservancy.pdf))
 - **Executive Summary of Findings**: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Executive%20Summary.pdf
 - **Final Presentation Slides**: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Final%20Presentation%20Slides.pdf
 - Python code with all visualizations and the final data merge between all variables in the entire report: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Visualizations%20and%20Final%20Data%20Merge%20Master%20Code%20File.ipynb
